@@ -33,15 +33,7 @@ Embeddings	Sentence Transformers
 Frontend	Streamlit
 Language	Python
 📁 Project Structure
-atliq_tshirts/
-│
-├── main.py                 # Streamlit application
-├── langchain_helper.py     # LangChain + SQLDatabaseChain logic
-├── few_shots.py            # Few-shot examples for SQL prompting
-├── requirements.txt        # Project dependencies
-├── .env                    # API keys (not committed)
-├── database.ipynb          # Database exploration notebook
-└── README.md               # Project documentation
+<img width="394" height="205" alt="image" src="https://github.com/user-attachments/assets/2e076c23-c45e-45e4-be7b-ed89bdfb7d7e" />
 
 ⚙️ Setup Instructions
 1️⃣ Clone the repository
