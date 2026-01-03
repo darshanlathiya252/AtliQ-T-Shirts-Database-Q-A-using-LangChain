@@ -1,0 +1,26 @@
+# UI
+streamlit
+
+# LangChain core stack
+langchain
+langchain-core
+langchain-community
+langchain-experimental
+langchain-openai
+
+# LLM provider
+openai
+
+# Embeddings (non-deprecated)
+langchain-huggingface
+sentence-transformers
+
+# Vector database
+chromadb
+
+# Database (MySQL)
+sqlalchemy
+pymysql
+
+# Environment variables
+python-dotenv
